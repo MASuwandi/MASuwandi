@@ -1,4 +1,4 @@
-![image](https://github.com/MASuwandi/MASuwandi/assets/45811014/5cc0b3c3-be00-43ad-90e9-b5d42c8cc171)Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Muhammad Abdurrahim Suwandi
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Muhammad Abdurrahim Suwandi
 ===================================================================================================================================================
 
 Back End Developer
