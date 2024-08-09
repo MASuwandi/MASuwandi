@@ -6,15 +6,17 @@ Back End Developer
 
 I've been learning to code for 4 years. I started with JavaScript, but have really found a passion for backend development.
 
-*   🌍  I'm based in Bandung and Bogor, Indonesia
+*   🌍  I'm based in Jakarta, Indonesia
 *   📫  You can contact me at [mab.suwandi@gmail.com](mailto:mab.suwandi@gmail.com)
-*   🌱  I'm Currently learning Java
+*   🌱  I'm Currently Deep Diving to Backend Oceans
 *   🎩 Pronouns: He
-*   🤯 Fun fact: sleeps helps you remember things
+*   🤯 Fun fact:
+*               - Sleeps helps you remember things
+*               - You can still solve code when you sleep
 
 ### Languages and Tools: 🚀
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,ts,prisma,go,java,redis,postman,git,gitlab,docker,gcp&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql,ts,prisma,go,java,maven,spring,redis,rabbitmq,postman,git,gitlab,github,docker,kubernetes,jenkins,gcp&perline=7)](https://skillicons.dev)
                     
 ### Socials
 
