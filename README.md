@@ -11,8 +11,8 @@ I've been learning to code for 4 years. I started with JavaScript, but have real
 *   🌱  I'm Currently Deep Diving to Backend Oceans
 *   🎩 Pronouns: He
 *   🤯 Fun fact:
-*               - Sleeps helps you remember things
-*               - You can still solve code when you sleep
+*    - Sleeps helps you remember things
+*    - You can still solve code when you sleep
 
 ### Languages and Tools: 🚀
 
