@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Muhammad Abdurrahim Suwandi
 ===================================================================================================================================================
 
-Back End Developer
+Software Developer
 ------------------
 
 I've been learning to code since 2019, starting with JavaScript and growing into a strong passion for software development.
