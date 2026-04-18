@@ -19,15 +19,7 @@ I've been learning to code for 4 years. I started with JavaScript, but have real
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql,ts,prisma,java,maven,spring,redis,rabbitmq,postman,git,gitlab,github,docker,kubernetes,jenkins,gcp&perline=7)](https://skillicons.dev)
                     
 ### Socials
-
-<p style="display:flex; gap:8px; align-items:center;">
-  <a href="https://www.github.com/MASuwandi">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
-  </a>
-  <a href="https://www.linkedin.com/in/muhammad-abdurrahim-suwandi-48731390/">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
-  </a>
-</p>
+<p align="left"><a href="https://www.github.com/MASuwandi"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a><a href="https://www.linkedin.com/in/muhammad-abdurrahim-suwandi-48731390/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 
 <!-- Next Objectives:
