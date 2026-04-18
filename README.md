@@ -16,7 +16,7 @@ I've been learning to code since 2019, starting with JavaScript and growing into
 
 ### Languages and Tools: 🚀
 
-[![My Skills](https://skillicons.dev/icons?i=js,nodejs,express,ts,mongodb,postgres,mysql,prisma,java,maven,spring,redis,git,github,postman,docker,kubernetes,jenkins,gcp&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,nodejs,express,ts,postgres,mongodb,prisma,java,maven,spring,redis,mysql,git,github,postman,docker,kubernetes,jenkins,gcp&perline=7)](https://skillicons.dev)
                     
 ### Socials
 <p align="left"><a href="https://www.github.com/MASuwandi"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a><a href="https://www.linkedin.com/in/muhammad-abdurrahim-suwandi-48731390/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
