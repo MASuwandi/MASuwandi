@@ -4,11 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Back End Developer
 ------------------
 
-I've been learning to code for 4 years. I started with JavaScript, but have really found a passion for backend development.
+I've been learning to code since 2019, starting with JavaScript and growing into a strong passion for software development.
 
 *   🌍  I'm based in Jakarta, Indonesia
 *   📫  You can contact me at [mab.suwandi@gmail.com](mailto:mab.suwandi@gmail.com)
-*   🌱  I'm Currently Deep Diving to Backend Oceans
+*   🌱  I'm Currently Deep Diving into Software Development Oceans
 *   🎩 Pronouns: He
 *   🤯 Fun fact:
 *    - Sleeps helps you remember things
