@@ -16,7 +16,7 @@ I've been learning to code for 4 years. I started with JavaScript, but have real
 
 ### Languages and Tools: 🚀
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql,ts,prisma,go,java,maven,spring,redis,rabbitmq,postman,git,gitlab,github,docker,kubernetes,jenkins,gcp&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql,ts,prisma,java,maven,spring,redis,rabbitmq,postman,git,gitlab,github,docker,kubernetes,jenkins,gcp&perline=7)](https://skillicons.dev)
                     
 ### Socials
 
